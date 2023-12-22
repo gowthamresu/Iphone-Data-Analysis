@@ -4,9 +4,7 @@
 This repository contains Python code for analyzing iPhone product data using the pandas library. The dataset used is related to various iPhone models, including product details, pricing, and ratings. The analysis includes basic statistics, price range filtering, and insights into the highest and lowest-priced iPhones.
 
 ## Requirements
-Make sure you have the following libraries installed:
-- pandas
-- 
+Make sure you have the required libraries installed
 Run the Jupyter Notebook or Python script to perform the analysis.
 
 Dataset
@@ -24,7 +22,7 @@ UPC (Universal Product Code)
 Star Rating
 RAM
 
-Analysis Highlights
+## Analysis Highlights
 
 Basic Data Summary: Use df.info() and df.count() to provide an overview of the dataset's structure and completeness.
 
@@ -42,3 +40,15 @@ Files
 iphone_data_analysis.ipynb: Jupyter Notebook containing the analysis code.
 
 apple_products.csv: CSV file containing the raw dataset.
+
+## Visualizations
+The analysis includes various visualizations, such as 
+
+histograms
+scatter plots
+box plots
+bar plots
+pie charts
+
+To provide a comprehensive view of the dataset
+These visualizations help in understanding the distribution of star ratings, relationships between sale price and MRP, brand distribution, and more.
