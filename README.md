@@ -5,10 +5,10 @@ This repository contains Python code for analyzing iPhone product data using the
 
 ## Requirements
 Make sure you have the required libraries installed
+
 Run the Jupyter Notebook or Python script to perform the analysis.
 
-Dataset
-The dataset (apple_products.csv) contains information about various iPhone models, including:
+Dataset:The dataset (apple_products.csv) contains information about various iPhone models, including:
 
 Product Name
 Product URL
@@ -35,7 +35,6 @@ Unique Product Names: Display a list of unique product names to identify the div
 Model Name Extraction: Create a new column, 'Model Name', from the 'Product Name' for better categorization.
 
 Star Rating Analysis: Analyze unique values, counts, and sort the DataFrame based on 'Star Rating' to find the highest-rated iPhones.
-Files
 
 iphone_data_analysis.ipynb: Jupyter Notebook containing the analysis code.
 
