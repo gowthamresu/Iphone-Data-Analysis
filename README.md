@@ -41,13 +41,7 @@ iphone_data_analysis.ipynb: Jupyter Notebook containing the analysis code.
 apple_products.csv: CSV file containing the raw dataset.
 
 ## Visualizations
-The analysis includes various visualizations, such as 
-
-histograms
-scatter plots
-box plots
-bar plots
-pie charts
+The analysis includes various visualizations, such as histograms,scatter plots,box plots,bar plots,pie charts
 
 To provide a comprehensive view of the dataset
 These visualizations help in understanding the distribution of star ratings, relationships between sale price and MRP, brand distribution, and more.
